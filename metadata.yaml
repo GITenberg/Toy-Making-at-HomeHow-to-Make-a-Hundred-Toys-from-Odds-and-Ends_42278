@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41611'
     url: http://www.gutenberg.org/2009/agents/41611
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42278#Toy-Making-at-HomeHow-to-Make-a-Hundred-Toys-from-Odds-and-Ends
 gutenberg_issued: '2013-03-08'
 gutenberg_type: Text
 identifiers:
