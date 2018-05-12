@@ -1,0 +1,25 @@
+_repo: Toy-Making-at-HomeHow-to-Make-a-Hundred-Toys-from-Odds-and-Ends_42278
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42278-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Adams, Morley
+    gutenberg_agent_id: '41611'
+    url: http://www.gutenberg.org/2009/agents/41611
+description: ''
+gutenberg_issued: '2013-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Toys'
+- !lcc 'TT'
+- !lcc 'GV'
+title: 'Toy-Making at Home: How to Make a Hundred Toys from Odds and Ends'
+url: http://www.gutenberg.org/ebooks/42278
